@@ -5,6 +5,6 @@ Our AVR Equipment and Room Requesting System is the innovative solution you've b
 
 
 # Tags
-*Tracker
-*Borrowing
-*RemoteAccess
+-Tracker
+-Borrowing
+-RemoteAccess
